@@ -242,4 +242,4 @@ Understanding Shannon and BER clarifies why throughput drops rapidly when signal
 
 This exercise illustrates the difference between theoretical limits and practical performance. Shannon capacity defines what is mathematically possible, but BER analysis determines what is operationally reliable. Increasing rate without increasing power reduces energy per bit, increasing errors. Similarly, increasing modulation order improves spectral efficiency but demands higher SNR.
 
-Ultimately, physical-layer design is a balance between power, bandwidth, and reliability — constraints that shape all higher-layer networking behavior.
+Ultimately, physical-layer design is a balance between power, bandwidth, and reliability.
